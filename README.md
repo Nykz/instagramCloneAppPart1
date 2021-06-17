@@ -1,7 +1,7 @@
 # instagramCloneAppPart1
 ### Instagram Clone App - Part I - Profile Screen | Ionic 5+ UI
 
-Watch the Full Episode on YouTube at https://youtu.be/zRPfIytx8Sk
+Watch the Full Episode on YouTube at https://youtu.be/zQIBTFaDbNI
 
 <img src="https://github.com/Nykz/instagramCloneAppPart1/blob/main/screenshots/localhost_8100_tabs_wishlist(iPhone%206_7_8).png" width="200" height="400" />
 <img src="https://github.com/Nykz/instagramCloneAppPart1/blob/main/screenshots/localhost_8100_tabs_wishlist(iPhone%206_7_8)%20(1).png" width="200" height="400" />
